@@ -15,6 +15,7 @@
 		1016ECF71F5F1E1E00C6015C /* FaceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1016ECF61F5F1E1E00C6015C /* FaceView.swift */; };
 		101B9C2B1F65D5580005E4A1 /* FacialExpression.swift in Sources */ = {isa = PBXBuildFile; fileRef = 101B9C2A1F65D5580005E4A1 /* FacialExpression.swift */; };
 		101BEED11F78350C00E2E00B /* EmotionsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 101BEED01F78350C00E2E00B /* EmotionsViewController.swift */; };
+		101BEED31F78440C00E2E00B /* VCLLoggingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 101BEED21F78440C00E2E00B /* VCLLoggingViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		1016ECF61F5F1E1E00C6015C /* FaceView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FaceView.swift; sourceTree = "<group>"; };
 		101B9C2A1F65D5580005E4A1 /* FacialExpression.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FacialExpression.swift; sourceTree = "<group>"; };
 		101BEED01F78350C00E2E00B /* EmotionsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EmotionsViewController.swift; sourceTree = "<group>"; };
+		101BEED21F78440C00E2E00B /* VCLLoggingViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VCLLoggingViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 			isa = PBXGroup;
 			children = (
 				101BEED01F78350C00E2E00B /* EmotionsViewController.swift */,
+				101BEED21F78440C00E2E00B /* VCLLoggingViewController.swift */,
 				1016ECE51F5F1DC200C6015C /* FaceViewController.swift */,
 				1016ECF61F5F1E1E00C6015C /* FaceView.swift */,
 				101B9C2A1F65D5580005E4A1 /* FacialExpression.swift */,
@@ -154,6 +157,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				101BEED31F78440C00E2E00B /* VCLLoggingViewController.swift in Sources */,
 				1016ECE61F5F1DC200C6015C /* FaceViewController.swift in Sources */,
 				101B9C2B1F65D5580005E4A1 /* FacialExpression.swift in Sources */,
 				101BEED11F78350C00E2E00B /* EmotionsViewController.swift in Sources */,
